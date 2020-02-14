@@ -1,0 +1,110 @@
+/* Barre ___________________De_____________Navigation */
+#navbarSupportedContent{
+    margin-left: 200px;
+    font-family: Wide Latin;
+    color: black !important;
+    font-size: 20px;
+    font-weight: bolder;
+   margin-left: 400px;
+}
+#navbarSupportedContent a {
+    color: black ;
+    padding: 25px;
+   
+}
+#navbarSupportedContent a:hover {
+   border: 1px solid #f14950;
+}
+#hrHaut{
+    height: 3px;
+    background: #918a8b;
+    margin-right: 100px;
+    padding: 0px;
+}
+#hrBas{
+    height:2px;
+    background: #918a8b;
+    margin-left: 100px;
+}
+#hr{
+    height:5px;
+    background: #f14950;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: -1px;
+
+}
+nav{
+    margin-top: -16px;
+    background: white;
+   
+}
+/* PArtie___________________________________Acceuill */
+
+/* #accueil2{
+   
+   
+} */
+/* PArtie___________________________________*/
+#Preferences p{
+    color: black;
+    font-size: 18px;
+    font-family: Arial;
+    font-weight: bolder;
+    margin-top: 50px;
+    
+    
+}
+#Preferences u{
+    font-family: Wide Latin;
+    font-size: 20px;
+    font-weight: bolder;
+}
+#Preferences hr{
+    background: #f14950;
+    height: 2px;
+    margin-right: 500px;
+    margin-left: 500px;
+}
+#References u{
+    font-family: Wide Latin;
+    font-size: 20px;
+    font-weight: bolder;
+}
+#References hr{
+    background: #f14950;
+    height: 2px;
+    margin-right: 500px;
+    margin-left: 500px;
+}
+
+#contact form .input1{
+    width: 11cm;
+   height: 1.5cm;
+   border: 2px solid #f14950;
+}
+#contact form .textarea{
+    border: 2px solid #f14950;
+    /* margin-left: 100px; */
+}
+#contact form .boutton {
+    background: red;
+    /* background: transparent; */
+    border: 2px solid  #f14950;
+    width: 5cm;
+   height: 1.5cm;
+}
+#contact u{
+    font-family: Wide Latin;
+    font-size: 20px;
+    font-weight: bolder;
+}
+#contact hr{
+    background: #f14950;
+    height: 2px;
+    margin-right: 500px;
+    margin-left: 500px;
+}
+#reseausociaux img{
+    margin-left: 10px;
+}
